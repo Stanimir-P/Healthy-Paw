@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Healthy-Paw/static/css/main.d9035cfb.chunk.css",
+    "main.js": "/Healthy-Paw/static/js/main.9ea861ce.chunk.js",
+    "main.js.map": "/Healthy-Paw/static/js/main.9ea861ce.chunk.js.map",
+    "runtime-main.js": "/Healthy-Paw/static/js/runtime-main.f6504029.js",
+    "runtime-main.js.map": "/Healthy-Paw/static/js/runtime-main.f6504029.js.map",
+    "static/js/2.0e876a09.chunk.js": "/Healthy-Paw/static/js/2.0e876a09.chunk.js",
+    "static/js/2.0e876a09.chunk.js.map": "/Healthy-Paw/static/js/2.0e876a09.chunk.js.map",
+    "static/js/3.1ae9b5ee.chunk.js": "/Healthy-Paw/static/js/3.1ae9b5ee.chunk.js",
+    "static/js/3.1ae9b5ee.chunk.js.map": "/Healthy-Paw/static/js/3.1ae9b5ee.chunk.js.map",
+    "index.html": "/Healthy-Paw/index.html",
+    "static/css/main.d9035cfb.chunk.css.map": "/Healthy-Paw/static/css/main.d9035cfb.chunk.css.map",
+    "static/js/2.0e876a09.chunk.js.LICENSE.txt": "/Healthy-Paw/static/js/2.0e876a09.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Healthy-Paw/static/media/kitty-bg.aea72736.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6504029.js",
+    "static/js/2.0e876a09.chunk.js",
+    "static/css/main.d9035cfb.chunk.css",
+    "static/js/main.9ea861ce.chunk.js"
+  ]
+}
