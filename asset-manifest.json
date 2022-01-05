@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Healthy-Paw/static/css/main.d9035cfb.chunk.css",
-    "main.js": "/Healthy-Paw/static/js/main.9ea861ce.chunk.js",
-    "main.js.map": "/Healthy-Paw/static/js/main.9ea861ce.chunk.js.map",
+    "main.js": "/Healthy-Paw/static/js/main.98fbe292.chunk.js",
+    "main.js.map": "/Healthy-Paw/static/js/main.98fbe292.chunk.js.map",
     "runtime-main.js": "/Healthy-Paw/static/js/runtime-main.f6504029.js",
     "runtime-main.js.map": "/Healthy-Paw/static/js/runtime-main.f6504029.js.map",
     "static/js/2.0e876a09.chunk.js": "/Healthy-Paw/static/js/2.0e876a09.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f6504029.js",
     "static/js/2.0e876a09.chunk.js",
     "static/css/main.d9035cfb.chunk.css",
-    "static/js/main.9ea861ce.chunk.js"
+    "static/js/main.98fbe292.chunk.js"
   ]
 }
