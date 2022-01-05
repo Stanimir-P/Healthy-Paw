@@ -13,7 +13,7 @@ const Header = () => {
             <nav className="header-navbar navbar">
                 <section className="header-navbar-dashboard">
                     <div className="left-bar logo">
-                        <Link to="/" ><i className="fa fa-paw logo-paw"></i> <h3>Healthy</h3></Link>
+                        <Link to="/Healthy-Paw" ><i className="fa fa-paw logo-paw"></i> <h3>Healthy</h3></Link>
                     </div>
 
                     <div className="nav-title">

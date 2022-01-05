@@ -14,7 +14,7 @@ const GallerySection = () => {
                         <PawsIcons />
                     </div>
 
-                    <Link to="/gallery" className="gallery-section-title section-btn">
+                    <Link to="/Healthy-Paw/gallery" className="gallery-section-title section-btn">
                         <div className="visit-gallery-btn">VISIT GALLERY</div>
                     </Link>
 

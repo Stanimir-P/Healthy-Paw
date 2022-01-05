@@ -77,7 +77,7 @@ const BlogSection = () => {
                 </div>
 
                 <aside className="blog-btn-wrapper">
-                    <Link to="/blog" className="blog-btn section-btn">
+                    <Link to="/Healthy-Paw/blog" className="blog-btn section-btn">
                         <div className="visit-blog-btn">VISIT BLOG</div>
                     </Link>
                 </aside>

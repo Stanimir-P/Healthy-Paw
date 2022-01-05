@@ -191,7 +191,7 @@ const MedicalRecord = () => {
 
                 <div className="create-record-wrapper">
                     <div className="create-record-btn section-btn">
-                        <Link to="/medical-record/create-pet-record">Create New Record</Link>
+                        <Link to="/Healthy-Paw/medical-record/create-pet-record">Create New Record</Link>
                     </div>
                 </div>
             </div>

@@ -18,7 +18,7 @@ const FindVetSection = () => {
                     </div>
 
                     <div className="vet-section-button">
-                        <Link to="/find-vet">Find Vet</Link>
+                        <Link to="/Healthy-Paw/find-vet">Find Vet</Link>
                     </div>
                 </div>
             </div>

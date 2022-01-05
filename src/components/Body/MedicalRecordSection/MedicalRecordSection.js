@@ -14,7 +14,7 @@ const MedicalRecordSection = () => {
                     </div>
 
                     <div className="medical-btn-wrapper">
-                        <Link to="/medical-record" className="medical-btn section-btn">
+                        <Link to="/Healthy-Paw/medical-record" className="medical-btn section-btn">
                             <div className="visit-record-btn">Visit Record</div>
                         </Link>
                     </div>

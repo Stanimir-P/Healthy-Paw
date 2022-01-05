@@ -38,7 +38,7 @@ const UserLog = ({
 
                     <button type="submit" className="form-btn">Login</button>
 
-                    <Link to="/register">Don't have an account?<br /> Create it from here.</Link>
+                    <Link to="/Healthy-Paw/register">Don't have an account?<br /> Create it from here.</Link>
                 </form>
             </div>
         </div>

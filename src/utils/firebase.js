@@ -7,14 +7,14 @@ import { Redirect } from 'react-router-dom';
 import { showErrorMessage } from "../services/common";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAQ2VwkBsu_GVFefxOS4YtVJTOAg6klkXo",
-    authDomain: "healthy-paw-258c3.firebaseapp.com",
-    projectId: "healthy-paw-258c3",
-    databaseURL: "https://healthy-paw-258c3-default-rtdb.europe-west1.firebasedatabase.app/",
-    storageBucket: "healthy-paw-258c3.appspot.com",
-    messagingSenderId: "1015211012736",
-    appId: "1:1015211012736:web:5884963f56d71e41f5ac65"
-};
+    apiKey: "AIzaSyDEnMVD3FHaG2QVA8B50xb891tzG3G4WGM",
+    authDomain: "healthy-paw-49480.firebaseapp.com",
+    databaseURL: "https://healthy-paw-49480-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "healthy-paw-49480",
+    storageBucket: "healthy-paw-49480.appspot.com",
+    messagingSenderId: "420299937528",
+    appId: "1:420299937528:web:9a718f6daa8ac1299d8d0d"
+  };
 
 if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);

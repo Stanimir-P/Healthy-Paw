@@ -38,20 +38,20 @@ const App = () => {
                 <Header />
 
                 <Switch>
-                    <Route path="/" exact component={Body} />
-                    <Route path="/register" component={UserReg} />
-                    <Route path="/login" component={UserLog} />
-                    <Route path="/logout" render={logout} />
+                    <Route path="/Healthy-Paw" exact component={Body} />
+                    <Route path="/Healthy-Paw/register" component={UserReg} />
+                    <Route path="/Healthy-Paw/login" component={UserLog} />
+                    <Route path="/Healthy-Paw/logout" render={logout} />
 
-                    <Route path="/find-vet" component={FindVet} />
-                    <Route path="/medical-record" exact component={
+                    <Route path="/Healthy-Paw/find-vet" component={FindVet} />
+                    <Route path="/Healthy-Paw/medical-record" exact component={
                         authInfo.isAuthenticated
                             ? () => <MedicalRecord />
                             : () => <UserLog />
                     } />
-                    <Route path="/medical-record/create-pet-record" component={CreatePetRecord} />
-                    <Route path="/gallery" component={Gallery} />
-                    <Route path="/blog" component={Blog} />
+                    <Route path="/Healthy-Paw/medical-record/create-pet-record" component={CreatePetRecord} />
+                    <Route path="/Healthy-Paw/gallery" component={Gallery} />
+                    <Route path="/Healthy-Paw/blog" component={Blog} />
                 </Switch>
 
                 <Footer />
